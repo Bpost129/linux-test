@@ -1,5 +1,5 @@
-const cat = "Rosco"
+function letThemEatCats(cat) {
+  console.log(`Oh no! They ate ${cat}`) 
+}
 
-const pet = cat
-
-console.log(pet)
+letThemEatCats("Rupert")
